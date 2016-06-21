@@ -2,8 +2,8 @@
 //  TextQuery.cpp
 //  textQuery
 //
-//  Created by 宇 杨 on 16/6/20.
-//  Copyright (c) 2016年 edu.self. All rights reserved.
+//  Created by Yu Yang on 16/6/20.
+//  Copyright (c) 2016 edu.self. All rights reserved.
 //
 
 #include "TextQuery.h"
